@@ -14,7 +14,7 @@ const LoginPage = () => {
   // Mock admin credentials (in a real app, this would be handled by a backend)
   const ADMIN_CREDENTIALS = {
     username: 'admin',
-    password: 'securepassword123'
+    password: 'emmanuel123'
   };
 
   const handleInputChange = (e) => {
